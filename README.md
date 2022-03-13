@@ -9,7 +9,7 @@
 因为发现TG机器人推送内容包含'xxx.xxx.xxx.xxx'时会推送失败,故改为'xxx,xxx,xxx,xxx'以英文逗号形式输出ip地址。
 
 ### Actions secrets 设置
-'HOSTLOC_USERNAME'  用户名，多个用','英文逗号隔开
+'HOSTLOC_USERNAME'  用户名，多个用','英文逗号隔开 你
 
 'HOSTLOC_PASSWORD'  密码，多个用','英文逗号隔开，与用户名一一对应，不对应和上下数量不一致会报错。
 
